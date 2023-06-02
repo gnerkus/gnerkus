@@ -8,8 +8,6 @@ I blog at [nanotome.com](https://www.nanotome.com). Here is what I have publishe
 - [Fancy 3d text](https://nanotome.com/2023/05/fancy-3d-text-with-single-line-fonts-in-three.js-and-react/)
 
 ### :octocat: All the statistics
-[![github stats](https://github-readme-stats.vercel.app/api?username=gnerkus&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=gnerkus)](https://github.com/anuraghazra/github-readme-stats)
  [![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnerkus)](https://github.com/anuraghazra/github-readme-stats)
- 
- ![github stats](https://github-readme-stats.vercel.app/api?username=gnerkus&show_icons=true&hide_title=true)
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gnerkus&layout=compact)
+
