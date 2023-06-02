@@ -7,7 +7,4 @@ I'm Ifeanyi Oraelosi, welcome to my github profile. I'm a web developer and make
 I blog at [nanotome.com](https://www.nanotome.com). Here is what I have published recently.
 - [Fancy 3d text](https://nanotome.com/2023/05/fancy-3d-text-with-single-line-fonts-in-three.js-and-react/)
 
-### :octocat: All the statistics
-[![github stats](https://github-readme-stats.vercel.app/api?username=gnerkus)](https://github.com/anuraghazra/github-readme-stats)
- [![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnerkus)](https://github.com/anuraghazra/github-readme-stats)
 
