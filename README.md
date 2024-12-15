@@ -1,8 +1,28 @@
-### Hi, I'm Ifeanyi Oraelosi
-- I code in Javascript and C#
-- I blog regularly at [nanotome.com](https://nanotome.com/blog/)
+<p align="center">
+<samp>
+<a href="https://nanotome.com">me</a> .
+<a href="https://nanotome.com/blog">blog</a> .
+</samp>
+</p>
 
+# Hi, I'm Ifeanyi 👋
+A developer who loves to experiment with the web and **[share](https://nanotome.com/blog)** those experiments, mostly focused on **Javascript** and **.NET**.
 
+Also a budding 3D **artist**.
+
+<!-- prettier-ignore-start -->
+<!-- BLOG:START -->
+
+## Recent blog posts
+
+- [Minimal API MSBuild - Part 2](https://nanotome.com/blog/msbuild-minimalapi-part-2/)
+- [Minimal API MSBuild - Part 1](https://nanotome.com/blog/msbuild-minimalapi-part-1/)
+- [Use a Lua formula to process a CSV file](https://nanotome.com/blog/use-lua-formulae-on-csv/)
+
+<!-- BLOG:END -->
+<!-- prettier-ignore-end -->
+
+## Fun badges
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
