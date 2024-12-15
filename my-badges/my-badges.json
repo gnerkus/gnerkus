@@ -1,0 +1,163 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/gnerkus/talki-talki/commit/a62d7488fbbcdc55b85a1b2d22c87ca3a93f8f05\"><strong>a</strong>62d7488fbbcdc55b85a1b2d22c87ca3a93f8f05</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/gnerkus/composed-frontend/commit/abeb84a30a35bc3d93f33514561f08ab31570b8a\"><strong>ab</strong>eb84a30a35bc3d93f33514561f08ab31570b8a</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/gnerkus/search-replace/commit/9c8b2e3918a4c6415a2f2c449982f00cafe9bcd8\">9c8b2e3918a4c6415a2f2c449982f00<strong>cafe</strong>9bcd8</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ld39/commit/0226825d23ec8bd6b5277bd65a352ca9812d50ab\">0226825</a>: chore(core): initialize Unity project",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nanotome/rtds-t/commit/9a1abd0e85fbbdceeef5cd251e735113ff70115d\">9a1abd0</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque/commit/b47a35dc329ff55abdae5a106f1afa0ecefe78de\">b47a35d</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/3cb578f0cf5b77b37576d865d620b47b763396a4\">3cb578f</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/10dcf8574507a32c4bd49ff249382e57d2040c51\">10dcf85</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/12fa056ed4d4c2e50817497303008cf9ccc024eb\">12fa056</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/86a8e66e521665d73ed138ad4609bc6bc7f8388f\">86a8e66</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/67f2314c44cf3c76be9d7aebb0d0ee6e0c605878\">67f2314</a>\n- <a href=\"https://github.com/nanotome/rtds-t/commit/c834378c9aaabc5b742d1d4a04ad1638028eaa61\">c834378</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 261 times)\n2. define (used 206 times)\n3. create (used 129 times)\n4. merge (used 114 times)\n5. request (used 105 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque/commit/aa592738697f90798dbdde999ee0852a52781b5a\">aa59273</a>: fix syntax for sonarcloud build\n- <a href=\"https://github.com/gnerkus/ranque/commit/b1f4120cf0d7809b83dbe0771c101ad43e923239\">b1f4120</a>: fix syntax for sonarcloud build",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/nanotome/art-prompt/commit/3eb40842414e9984d06910e8ee224c0319e9defd\">3eb4084</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/dariusk/NaNoGenMo-2014/issues/3\">#3</a>: Intent to participate.\n- <a href=\"https://github.com/orezi/andela-oolarewaju.github.io/issues/1\">#1</a>: ATM is faulty\n- <a href=\"https://github.com/tdeekens/flopflip/issues/679\">#679</a>: `ready` event is emitted on error when initializing client",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/commercetools/ui-kit/pull/419\">#419</a>: fix(localizedmoneyinput): remove 'amount/currencyCode' from event name",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/orezi/andela-oolarewaju.github.io/issues/1\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/2822cfc3d9c3e1b49378ec7ed0d4f791a554ba2f\">2822cfc</a>\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/53543058542ebe4945eafcec3e170b2b5fac0ae8\">5354305</a>\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/e2956f0e74680de6225c89766a598131befcf8b8\">e2956f0</a>\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/fa9a78ce32dd6dbf91dd6a87a9fbc7c8cb3ed18c\">fa9a78c</a>\n- <a href=\"https://github.com/gnerkus/wagago/commit/d4e3c103bb777ace895f2feb5aa1bdb20830a73a\">d4e3c10</a>\n- <a href=\"https://github.com/gnerkus/wagago/commit/9acb77444c2cfefb2a0b61998368c4759ebc731c\">9acb774</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 3 my own repositories.",
+    "body": "- <a href=\"https://github.com/gnerkus/LuaPredicates\">gnerkus/LuaPredicates</a>\n- <a href=\"https://github.com/gnerkus/ranque\">gnerkus/ranque</a>\n- <a href=\"https://github.com/gnerkus/doch-ost\">gnerkus/doch-ost</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/gnerkus/ranque/pull/2\">#2</a>: Configure Sonarcloud\n- <a href=\"https://github.com/gnerkus/ranque/pull/3\">#3</a>: SON-01: Exception name consistency\n- <a href=\"https://github.com/gnerkus/ranque/pull/5\">#5</a>: SON-03: Refactor controllers\n- <a href=\"https://github.com/gnerkus/ranque/pull/11\">#11</a>: KAN-81: Configure testing\n- <a href=\"https://github.com/gnerkus/ranque/pull/18\">#18</a>: KAN-81: Configure SUT using Testing containers\n- <a href=\"https://github.com/gnerkus/ranque/pull/19\">#19</a>: KAN-86: Test leaderboard endpoints\n- <a href=\"https://github.com/gnerkus/ranque/pull/20\">#20</a>: KAN-89: Azure pipeline tests\n- <a href=\"https://github.com/gnerkus/LuaPredicates/pull/3\">#3</a>: LUP-03: nuget publish",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/149fbf94af9bb79fe46f2e4b80ca93d1d7e83a9c\">149fbf9</a>\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/ad1c7eb6743fb5122ecdb5c9f59b3ef22173b508\">ad1c7eb</a>\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/0bc9a11c653b99a6b27ea5215e97ddb63c7f6a92\">0bc9a11</a>\n- <a href=\"https://github.com/gnerkus/ranque/commit/01acc0028ba8a65f42a4c33122dcec0752e00135\">01acc00</a>\n- <a href=\"https://github.com/gnerkus/wagago/commit/8317b8566af3abd553915299713e5d1393c9ec13\">8317b85</a>\n- <a href=\"https://github.com/gnerkus/wagago/commit/ce2c4bd7a443317069917033ba30618126a254c8\">ce2c4bd</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/c8d6a2c881ea193883c656885cf7b1d08ea36362\">c8d6a2c</a>\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/746e17071022eb1e1bb516090466fbd0eb5af11c\">746e170</a>\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/80a0beb1b3d3128d4cf6c7f199ff6db3fb657b2e\">80a0beb</a>\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/14c51df56d686eb9779a7a5587dc782babfa18d0\">14c51df</a>\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/012538d68dda299ca6f03619625f86e1a85b30f4\">012538d</a>\n- <a href=\"https://github.com/gnerkus/advent-of-code/commit/3685d6ffa06d6810eaeeeab66b4068b47a058293\">3685d6f</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque-client/commit/bd80442586c40a77498688ff597588eb46c02b61\">bd80442</a>\n- <a href=\"https://github.com/gnerkus/ranque/commit/f415574c544518d006909635052f5c0ebbd2adff\">f415574</a>\n- <a href=\"https://github.com/gnerkus/ranque/commit/7c89a5ce320eb67c82387fee8f9a3a50926fd14e\">7c89a5c</a>\n- <a href=\"https://github.com/gnerkus/doch-ost/commit/7b817e179c5114772951819898e25b613e2e53d9\">7b817e1</a>\n- <a href=\"https://github.com/gnerkus/doch-ost/commit/6904d28c08a07ef50651c16bdb4ec60fd7ca2da6\">6904d28</a>\n- <a href=\"https://github.com/gnerkus/doch-ost/commit/f7c9b14a092e4cc55356981699c0f3f701191455\">f7c9b14</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gnerkus/ranque/commit/5290c977cf67546e8231f9e9792a58c9a826cfc5\">5290c97</a>\n- <a href=\"https://github.com/nanotome/art-prompt/commit/23ffcb34e9f1140133f293c44a2b8005f0c0dcaa\">23ffcb3</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
