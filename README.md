@@ -2,13 +2,12 @@
 <samp>
 <a href="https://nanotome.com">me</a> .
 <a href="https://nanotome.com/blog">blog</a> .
+<a href="https://nanotome.com/projects">projects</a>
 </samp>
 </p>
 
-# Hi, I'm Ifeanyi 👋
-A developer who loves to experiment with the web and **[share](https://nanotome.com/blog)** those experiments, mostly focused on **Javascript** and **.NET**.
-
-Also a budding 3D **artist**.
+- Web experiments with Javascript and .NET
+- 3d and game experiments with C and .NET (maybe Javascript?)
 
 <!-- prettier-ignore-start -->
 <!-- BLOG:START -->
