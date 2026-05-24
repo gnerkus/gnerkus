@@ -6,7 +6,7 @@
 </samp>
 </p>
 
-- Web experiments with Javascript and .NET
+- Web experiments and tools with Typescript and Node.js
 - 3d and game experiments with C and .NET (maybe Javascript?)
 
 [raylib](https://github.com/raysan5/raylib) is refreshing.
